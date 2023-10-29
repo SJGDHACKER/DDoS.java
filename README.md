@@ -1,5 +1,5 @@
 # DDoS.java
-# قناتيhttps://t.me/SJGDdw 
+# قناتي https://t.me/SJGDdw 
 
 تثبيت المكتبه على الترمكس
 
