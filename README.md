@@ -3,6 +3,6 @@
 
 git clone https://github.com/takkza/ddos-java
 
-cd ddos-java
+cd DDoS.java
 
-java ddos.java
+java DDoS.java
