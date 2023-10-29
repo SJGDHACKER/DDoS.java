@@ -1,5 +1,6 @@
 # DDoS.java
-#قناتيhttps://t.me/SJGDdw 
+# قناتيhttps://t.me/SJGDdw 
+
 تثبيت المكتبه على الترمكس
 
 pkg install openjdk-17
